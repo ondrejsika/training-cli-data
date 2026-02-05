@@ -1,0 +1,12 @@
+[
+  {
+    "username": "kubeadmin",
+    "password": "demo_demo_demo_demo",
+    "cluster_name": "training"
+  },
+  {
+    "username": "demo",
+    "password": "demo",
+    "cluster_name": "training2"
+  }
+]
