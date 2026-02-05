@@ -5,8 +5,8 @@
     "cluster_name": "training"
   },
   {
-    "username": "demo",
-    "password": "demo",
-    "cluster_name": "training2"
+    "username": "kubeadmin",
+    "password": "GkfPs-QCZ9a-4uWSu-GLTJU",
+    "cluster_name": "training"
   }
 ]
