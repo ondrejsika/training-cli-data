@@ -2,11 +2,13 @@
   {
     "username": "kubeadmin",
     "password": "Ng3fv-zVaEX-wNeKt-35UvC",
-    "cluster_name": "egd"
+    "cluster_name": "egd",
+    "console_url": "https://console-openshift-console.apps.egd.germanywestcentral.aroapp.io"
   },
   {
     "username": "kubeadmin",
     "password": "GkfPs-QCZ9a-4uWSu-GLTJU",
-    "cluster_name": "training"
+    "cluster_name": "training",
+    "console_url": "https://console-openshift-console.apps.training.germanywestcentral.aroapp.io"
   }
 ]
