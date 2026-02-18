@@ -1,13 +1,13 @@
 [
   {
     "username": "kubeadmin",
-    "password": "Ng3fv-zVaEX-wNeKt-35UvC",
+    "password_encrypted": "pNaoSKKpbUYNYV30oyTos1LFMprChAjYCXdDwpqTrz5adGz2MZaiVOiYFpy85YMt",
     "cluster_name": "egd",
     "console_url": "https://console-openshift-console.apps.egd.germanywestcentral.aroapp.io"
   },
   {
     "username": "kubeadmin",
-    "password": "jVDfU-C4XvV-LKfXB-R4vSs",
+    "password_encrypted": "6pAejan+DoZI1Af5rinqkQ82xEOpTLjPs69cNBYye1BkleeTpz6mtKeI76bNx0RZ",
     "cluster_name": "training",
     "console_url": "https://console-openshift-console.apps.training.germanywestcentral.aroapp.io"
   }
