@@ -1,5 +1,5 @@
 {
   "username": "training_2026-01-01@example.com",
-  "password": "demo_demo_demo_demo",
-  "otp": "V7OUDK7CSY2Y5NACGPIUSRUONQNEHR45"
+  "password_encrypted": "Olsq9LDZls4fwnWfUS3v5jwcd583BrYHqeyczqtyRnuYjA5dmc2IGAR11Sg5KqzBK6+JqMHZ8nHFSf/qKzKX",
+  "otp_encrypted": "VaHMbnjMx1G5yLELuW1GvhLmFuxsWNdrK0sxsOvsnuICtHw0UdGDcyolmFjhHzcihnacSQtzD9pmsm5G+EY0b8unh2UzN5arEZewlQ=="
 }
