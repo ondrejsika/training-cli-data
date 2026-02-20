@@ -1,7 +1,7 @@
 [
   {
     "username": "kubeadmin",
-    "password_encrypted": "RcJQVUKLQ8A2JhkBixXwlUuBYz59tnqhYWNUQz3d2kSPeqIp+in8jGII3wsrq3kH8Ulm+FABLj1SebwQBDhRAlf6KQ==",
+    "password_encrypted": "hYJzzmg6K9VdFjOrwA1/dLU/b1hXPjfmZWI0TU7w03bUOEQ0tLMUyJfSwQN+235afsMdQduMQg0nvHWUvXIMaiImaw==",
     "cluster_name": "egd",
     "console_url": "https://console-openshift-console.apps.egd.germanywestcentral.aroapp.io"
   },
