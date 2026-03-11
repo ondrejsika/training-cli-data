@@ -1,7 +1,7 @@
 [
   {
     "username": "kubeadmin",
-    "password_encrypted": "weNEJBTXwx/3PnCWvGIKh0P3gX068mcKCeVwdMeSdJt+v30HA6F8N/2/NR8a3zy20V1KMhhOryauM00ujcZWlW2oog==",
+    "password_encrypted": "NbHpBBBhGxmJfALulvD6lXe5s8ON3WiW/zrDPpGe4RJHjVOjt4ixWpaa5k9Q/X3sPFjWJAA6D0YxQWSuXh1kZUcZXA==",
     "cluster_name": "training",
     "console_url": "https://console-openshift-console.apps.training.germanywestcentral.aroapp.io"
   }
