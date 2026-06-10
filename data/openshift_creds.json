@@ -1,8 +1,8 @@
 [
   {
     "username": "kubeadmin",
-    "password_encrypted": "NbHpBBBhGxmJfALulvD6lXe5s8ON3WiW/zrDPpGe4RJHjVOjt4ixWpaa5k9Q/X3sPFjWJAA6D0YxQWSuXh1kZUcZXA==",
-    "cluster_name": "training",
-    "console_url": "https://console-openshift-console.apps.training.germanywestcentral.aroapp.io"
+    "password_encrypted": "Q0EedFdDFffMotaVyXzOPkJSig1kkoAXPH+zr/yIHkMeD4jCE5YFFRAhzW3xeI2ZE60OACObnVKlEHB9nWcBv7PCyg==",
+    "cluster_name": "bosch",
+    "console_url": "https://console-openshift-console.apps.bosch.germanywestcentral.aroapp.io"
   }
 ]
